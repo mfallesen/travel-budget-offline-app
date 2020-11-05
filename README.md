@@ -20,9 +20,9 @@ Simply navigate to https://enigmatic-brook-03226.herokuapp.com/ and begin using.
     
 *Instructions and examples for use:*
     
-![Gif demo of README-generator](readme-demo.gif)
+
     
-By traveles who may lose their internet connection so that they can still keep track of their fincances
+By travelers who may lose their internet connection so that they can still keep track of their fincances
     
 ## License
     
